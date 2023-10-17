@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on React
-- 🌱 I'm currently learning JavaScript
+🔭 I'm currently learning React
+🌱 I'm currently working on JavaScript and PHP
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
