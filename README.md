@@ -1,12 +1,11 @@
 ### Hi there 👋 my name is Camilla!
-=====================
-
 Front-End Developer
+
 ------------------
 
 * 🌍  I'm based in Carini (PA), Sicily, Italy
-* 🖥️  See my portfolio at [lijo-belardi](http://lijo-belardi.github.io/)
-* ✉️  You can contact me at [lijo.belardi@icloud.com](mailto:lijo.belardi@icloud.com)
+* 🖥️  See my portfolio at [camillatofani](http://camillatofani.github.io/)
+* ✉️  You can contact me at [info@camillatofani.it](mailto:info@camillatofani.it)
 * 🚀  I'm currently working on JavaScript and PHP
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on exciting projects as a Front-End Developer
