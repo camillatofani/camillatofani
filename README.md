@@ -7,7 +7,7 @@ Front-End Developer
 * 🖥️  See my portfolio at [camillatofani](http://camillatofani.github.io/)
 * ✉️  You can contact me at [info@camillatofani.it](mailto:info@camillatofani.it)
 * 🚀  I'm currently working on JavaScript and PHP
-* 🧠  I'm learning React
+* 🧠  I'm learning React and Typescript
 * 🤝  I'm open to collaborating on exciting projects as a Front-End Developer
 
 <a href="https://www.github.com/camillatofani" target="_blank" rel="noreferrer"><img
