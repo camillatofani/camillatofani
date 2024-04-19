@@ -6,7 +6,7 @@ Front-End Developer
 * 🌍  I'm based in Carini (PA), Sicily, Italy
 * 🖥️  See my portfolio at [camillatofani](http://camillatofani.github.io/)
 * ✉️  You can contact me at [info@camillatofani.it](mailto:info@camillatofani.it)
-* 🚀  I'm currently working on JavaScript and PHP
+* 🚀  I'm currently working on JavaScript, Liquid and PHP
 * 🧠  I'm learning React and Typescript
 * 🤝  I'm open to collaborating on exciting projects as a Full-Stack Developer
 
